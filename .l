@@ -19,6 +19,7 @@ alias halt='echo HALT_Attempt && prvsd'
 alias reboot='echo REBOOT_Attempt && prvsd'
 alias poweroff='echo POFF_Attempt && prvsd'
 
+alias pause="read -n1 -r -p $'Press any key to continue...\n' key"
 alias cls="clear && printf '\e[3J'"
 alias g="git"
 alias ga="git add ." 
