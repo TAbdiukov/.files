@@ -1,0 +1,1 @@
+ffmpeg -loop 1 -y -i image.png -i sound.flac -shortest -acodec copy -vcodec vp9 canon.mkv

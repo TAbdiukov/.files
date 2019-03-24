@@ -1,0 +1,3 @@
+SET XEF=./XEF
+SET XOM=./XOM
+"./XOM/bin/WormsBlast.exe" /W 1920 /H 1040 /ALLOWCAMERAMOVES /WIN

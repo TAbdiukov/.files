@@ -1,0 +1,8 @@
+ffmpeg -i "E04.mp4" -vf subtitles="E04.ENG.srt:force_style='Fontsize=25" -deadline best -shortest -vcodec libvpx-vp9 4.webm
+ffmpeg -i "E05.mp4" -vf subtitles="E05.ENG.srt:force_style='Fontsize=25" -deadline best -shortest -vcodec libvpx-vp9 5.webm
+ffmpeg -i "E06.mp4" -vf subtitles="E06.ENG.srt:force_style='Fontsize=25" -deadline best -shortest -vcodec libvpx-vp9 6.webm
+ffmpeg -i "E07.mp4" -vf subtitles="E07.ENG.srt:force_style='Fontsize=25" -deadline best -shortest -vcodec libvpx-vp9 7.webm
+ffmpeg -i "E08.mp4" -vf subtitles="E08.ENG.srt:force_style='Fontsize=25" -deadline best -shortest -vcodec libvpx-vp9 8.webm
+ffmpeg -i "E09.mp4" -vf subtitles="E09.ENG.srt:force_style='Fontsize=25" -deadline best -shortest -vcodec libvpx-vp9 9.webm
+ffmpeg -i "E10.mp4" -vf subtitles="E10.ENG.srt:force_style='Fontsize=25" -deadline best -shortest -vcodec libvpx-vp9 A.webm
+pause
