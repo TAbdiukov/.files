@@ -11,3 +11,5 @@
 * Flight - domains checked (flight arabia etc)
 * ASM - No exec
 * Python - Art
+* Python - Web archive scrapper (should be easy!)
+* HWZ+Python - True Type lister
