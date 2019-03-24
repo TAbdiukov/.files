@@ -1,0 +1,2 @@
+pip install img2pdf
+img2pdf -i 1.png -o o.pdf

@@ -1,0 +1,2 @@
+pip install midi2audio
+midi2audio input.midi out.flac
