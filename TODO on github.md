@@ -6,10 +6,11 @@
 * ICT167 - Upload project?
 * Python - lingua analyser
 * Flight - olga datasets
-* Flight - 2019 spide
+* ~~Flight - 2019 spide~~
 * Flight - sites scrappings
-* Flight - domains checked (flight arabia etc)
+* ~~Flight - domains checked (flight arabia etc)~~
 * ASM - No exec
 * Python - Art
 * Python - Web archive scrapper (should be easy!)
 * HWZ+Python - True Type lister
+* Python - ahk fix tests
