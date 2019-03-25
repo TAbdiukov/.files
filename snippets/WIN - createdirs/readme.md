@@ -1,0 +1,1 @@
+## creates directories from list.txt within the same folder
