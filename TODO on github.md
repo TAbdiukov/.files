@@ -13,3 +13,4 @@
 * ~~Flight - 2019 spide~~ [done]
 * ~~Flight - domains checked (flight arabia etc)~~ [done]
 * ~~Python - Art~~ [impractical and unstable as Art doesn't do CLI commands]
+* ASM minimal executables
