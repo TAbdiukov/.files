@@ -5,3 +5,4 @@
 File | Description
 -- | --
 .l | .bashrc alt
+dists/ | dists mirror on the main Github
