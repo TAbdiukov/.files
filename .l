@@ -1,6 +1,6 @@
 # variables
-ip="$(echo $SSH_CLIENT | awk {'print $1'})"
-static="$(resolveip -s $ip)"
+IP="$(echo $SSH_CLIENT | awk {'print $1'})"
+STATIC="$(resolveip -s $IP)"
 
 fhom="$HOME"
 falt="/unsw/$USER"
@@ -42,11 +42,16 @@ alias reboot='echo REBOOT_Attempt && prvsd'
 alias poweroff='echo POFF_Attempt && prvsd'
 
 # git
+## old aliases remap 
+alias gs2="gs"
+alias ghostscript2="gs"
+## new aliases
 alias g="git" 
 alias gs="git status"
 alias gr="git reset"
 alias ga="git add . && gs"
 alias gcm="git commit -m "
+alias gh="ga && gsm"
 
 # Python
 alias python='python --version && python '
