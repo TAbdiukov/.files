@@ -1,18 +1,12 @@
-﻿* Python - title.py
+﻿* Python - Web archive scrapper (should be easy!)
+
 * Python - maths analytics
-* Python - Web archive scrapper (should be easy!)
+
 * Python - ahk fix tests
 * Python - 06d GRAVES
 
-* ASM minimal executables
+* ASM minimal executables - Linux
 * AHK?
-* AMC - fixup readme
-* E2 readme populate
-
-________________
-
-* Flight - make CFR RADIO MANUAL work on *anything*, at least on XP VM
-
 
 _______________________
 
@@ -26,6 +20,10 @@ _______________________
 * ~~Python - make solar os-independent (Keyboard interrupt)~~ [**PR opened**]
 * ~~Python - img2pdf related~~
 * ~~Python - function decorators~~ [useless on classless scripts, but good idea nevertheless]
+* ~~Python - title.py~~ [done]
+* ~~AMC - fixup readme~~
+* ~~E2 readme populate~~
+* ~~Flight - make CFR RADIO MANUAL work on *anything*, at least on XP VM~~
 _______________
 
 * ~~HWZ - mode 4~~ [done]
