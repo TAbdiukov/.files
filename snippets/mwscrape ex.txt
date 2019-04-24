@@ -1,2 +1,3 @@
 python mwscrape.py --site-path="/w/" elsoc.fandom.com
 mwscrape2slob elsoc-fandom-com --ensure-ext-image-urls
+java -Dslobber.browse=false -Dslobber.port=8080 -Dslobber.host=0.0.0.0 -jar aard2-web-0.7-java6.jar ./slob/*.slob
