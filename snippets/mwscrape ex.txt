@@ -1,0 +1,2 @@
+python mwscrape.py --site-path="/w/" elsoc.fandom.com
+mwscrape2slob elsoc-fandom-com --ensure-ext-image-urls
