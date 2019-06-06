@@ -6,3 +6,4 @@ File | Description
 -- | --
 .l | .bashrc alt
 dists/ | dists mirror on the main Github
+sw stats/ | data on how&why install programs on exotic platforms
