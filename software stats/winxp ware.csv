@@ -1,0 +1,52 @@
+software,end-of-life,last working version,last filename,last link,last why,best version,best finename,best link,best why,comments
+[TABLE DESCRIPTION],Does last version not run on OS,"Last known version to support OS. If end-of-life is not reached yet, optionally contains the last known version that runs (also see best version)",Last known version's filename,Last known version's link,Reference to why some version is last to support OS,Best known version,Best known version's filename,Best known version's link,"Why the ""best"" version is better than last version",Any custom comments
+7-zip,N,18.05,,,,,,,,Opens RAR5 just fine
+ABBYY Finereader,?,,,,,12,,,"https://www.pcmag.com/article2/0,2817,2468186,00.asp","If use modern OSs, be sure to run in XP compatibility mode for more stable work"
+Adobe Reader,Y,11.0.08,AdbeRdr11008_en_US.exe,http://ardownload.adobe.com/pub/adobe/reader/win/11.x/11.0.08/en_US/AdbeRdr11008_en_US.exe,"{ ""https://get.adobe.com/reader/enterprise/"", ""https://support.mozilla.org/en-US/questions/1136769"" }",9.5,AdbeRdr950_en_US.exe,ftp://ftp.adobe.com/pub/adobe/reader/win/9.x/,"Much faster performance, lot less bloat while supporting all implementations of PDF",
+AIDA64,N,5.98.4800,,,,,,,,
+ArtMoney,N,8,,,,7.45.1,,,One of the most stable versions,
+Atmel Studio,Y,6.1 < X < 6.2 . Try 6.1.2674,,http://www.atmel.com/tools/studioarchive.aspx,,4.19.730,,http://www.atmel.com/tools/studioarchive.aspx,Last bloat-less non .NET version,
+Bandicam,Y,,,,https://xp.bandicam.com/,?,,,Last version isn't too stable,
+Bandicut,Y,2.8.2,,,https://xp.bandicam.com/,?,,,,
+calibre,Y,1.48,,https://download.calibre-ebook.com/1.48.0/,https://calibre-ebook.com/download_windows,(last),,,,
+CCleaner,?,,,,,3.27.1900,,,One of the last bloatless versions,
+Chrome,Y,49.0.2623.112,,,https://chrome.blogspot.com/2015/11/updates-to-chrome-platform-support.html,(last),,,,Better performance than FF. Most of websites displayed correctly (2018)
+Daemon Tools Lite,?,,,,,4.46.1.0328,,,One of the last bloatless versions,
+DB Browser for SQLite,N,3.10.1,,,,,,,,
+DirectX,Y,9.0c,,,http://www.tomshardware.com/forum/266096-45-what-latest-directx,,,,,
+doPDF,?,,,,,7.3.398,dopdf-7.exe,http://www.afterdawn.com/software/desktop/pdf/dopdf.cfm/v7_3_398,Last version without NET (i.e. bloatless),
+Download Accelerator,N,6.9.1.1517,,,,,,,,
+Everything,N,1.4.1.895,,,,,,,,
+FileZilla,?,3.11.0.1,,,,,,,,
+FileZilla Server,Y,0.9.41,,,https://forum.filezilla-project.org/viewtopic.php?t=39947,(last),,,,"Last version is publicly exploitable, dont use unless you know the risks"
+Firefox,Y,52.9.0 ESR,,,https://blog.mozilla.org/futurereleases/2016/12/23/firefox-support-for-xp-and-vista/,(last),,,,More recent and stable than Chrome. All websites are displayed correctly (2018)
+Git,Y,2.10.0,,https://github.com/git-for-windows/git/releases/tag/v2.10.0.windows.1,https://superuser.com/questions/1153883/git-for-windows-xp,(last),,,,Has 99.9% of what modern Git has (2018). More recent than TortoiseGit
+Immunity Debugger,N,1.8.5,,,,,,,,
+IrfanView,N,4.5.1,,,,,,,,
+Java,?,8 Update 151,,,,,,,,
+MATLAB,Y,R2015A,,,https://au.mathworks.com/matlabcentral/answers/94640-does-matlab-run-under-windows-xp,,,,,
+Microsoft Office,Y,2010,,,https://en.wikipedia.org/wiki/Microsoft_Office_2010,(subjective),,,,
+Nmap,Y,6.47,,,https://secwiki.org/w/Nmap/Old_Windows_Releases,(last),,,,Stable & all functionality present. Latter versions cannot be installed correctly
+Notepad++,?,7,,,,,,,,
+Octave,Y,4.0.3,,,http://octave.1599824.n4.nabble.com/Using-Octave-with-Windows-XP-td4680060.html,(last),,,,Latter versions do install but don't run
+ollyDbg,?,,,,,1.1,odbg110.zip,,"plugins support, stability and time-provenness",
+Opera Classic,?,12.18,,,,(subjective),,,,Nearly unsuitable for modern use
+PeerBlock,?,1.2,,,,,,,,
+PicPick,?,3.1.3,,,,,,,,Stable. All functionality present here
+Putty,?,0.7,,,,,,,,
+Python,Y,3.4,,,https://stackoverflow.com/questions/32491161/unable-to-install-python-3-5-within-windows-xp-professional,(last),,,,Other forks/implementations of Python may still support XP
+TortoiseGit,Y,1.8.16.0,,https://download.tortoisegit.org/tgit/1.8.16.0/,https://superuser.com/questions/1153883/git-for-windows-xp,(last),,,,
+UltraISO,?,9.6.6.3300,,,,,,,,
+Unlocker,N,1.9.2,,,,,,,,
+uTorrent,?,,,,,1.8.2,utorrent182.zip,http://rutracker.wiki/images/3/34/Utorrent182.zip,"Bugless, flexible, simple",
+VirusTotal Uploader,N,2.2,,https://www.virustotal.com/en/documentation/desktop-applications/windows-uploader,,,,,,
+VLC Media Player,N,3.0.4 Vetinari,,,,,,,,
+WinDjView,N,2.1,,,,,,,,
+WinHex,?,17.5,,,,,,,,
+Maple,Y,2015,,,https://www.maplesoft.com/products/roadmap.aspx,,,,,
+K-Lite Codec Pack,Y,13.8.5,,https://codecguide.com/download_mega_old.htm#xp_last_version,https://codecguide.com/download_k-lite_codec_pack_mega.htm,,,,,
+MYOB,Y,v2015.1,,,https://community.myob.com/t5/AccountRight-Installing-and/Installing-AccountRight-Premier-2015-2-on-XP-Version-of-Windows/m-p/358810#M9118,Premier v7,,,Last version before online activation needed,
+VcXsrv Windows X Server,Y,,vcxsrv.1.14.2.1.installer.exe,,https://sourceforge.net/projects/vcxsrv/,,,,,Versions starting from 1.14.3.0 are not compatible with Windows XP anymore.
+x32 dbg,N,,,,,,,,,
+IDA FREE,Y,5..0,,,,,,,,
+Advanced Chrome,?,54.20.6530.0,Advanced_Chrome_v54.20.6530.0.zip,https://browser.taokaizen.com/download/Advanced_Chrome_v54.20.6530.0.zip,https://browser.taokaizen.com/,,,,,
