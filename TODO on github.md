@@ -1,12 +1,9 @@
 ﻿* Python - Web archive scrapper (should be easy!)
 
-* Python - maths analytics
-
 * Python - ahk fix tests
 * Python - 06d GRAVES
 
 * ASM minimal executables - Linux
-* AHK?
 
 _______________________
 
@@ -21,6 +18,8 @@ _______________________
 * ~~Python - img2pdf related~~
 * ~~Python - function decorators~~ [useless on classless scripts, but good idea nevertheless]
 * ~~Python - title.py~~ [done]
+* ~~Python - maths analytics~~ [regex]
+* ~~AHK?~~ [done]
 * ~~AMC - fixup readme~~
 * ~~E2 readme populate~~
 * ~~Flight - make CFR RADIO MANUAL work on *anything*, at least on XP VM~~
