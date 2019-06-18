@@ -33,10 +33,10 @@ alias su='echo SU_ATTEMPT'
 
 alias prvsd=" -c && init 2"
 
-alias shutdown='echo SHUTDOWN_Attempt && prvsd'
-alias halt='echo HALT_Attempt && prvsd'
-alias reboot='echo REBOOT_Attempt && prvsd'
-alias poweroff='echo POFF_Attempt && prvsd'
+#alias shutdown='echo SHUTDOWN_Attempt && prvsd'
+#alias halt='echo HALT_Attempt && prvsd'
+#alias reboot='echo REBOOT_Attempt && prvsd'
+#alias poweroff='echo POFF_Attempt && prvsd'
 
 # git
 alias g="git" 
@@ -46,9 +46,10 @@ alias ga="git add . && gs"
 alias gcm='git commit -m '
 
 # Python
-alias python='python --version && python '
 alias python2="python"
-alias python3="python"
+
+alias python='python3 --version && python3 '
+alias python3="python3"
 
 # Tools
 alias n=nmap
