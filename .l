@@ -28,10 +28,10 @@ alias cdh="cd $fhom"
 alias cdm="cd $fmy"
 
 # Halt force logoff (hopefully)
-alias sudo='echo SUDO_ATTEMPT'
-alias su='echo SU_ATTEMPT'
-
 alias prvsd=" -c && init 2"
+
+#alias sudo='echo SUDO_ATTEMPT'
+#alias su='echo SU_ATTEMPT'
 
 #alias shutdown='echo SHUTDOWN_Attempt && prvsd'
 #alias halt='echo HALT_Attempt && prvsd'
