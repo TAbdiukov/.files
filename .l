@@ -5,9 +5,7 @@ fmy="$falt/myfiles.unsw.edu.au"
 
 # Allow the user to set the title.
 # https://superuser.com/a/84711 (modified)
-function title {
-   PROMPT_COMMAND="echo -ne \"\033]0;$1\007\""
-}
+function title {PROMPT_COMMAND="echo -ne \"\033]0;$1\007\""}
 
 # For alphabetic order
 export LANG=en_US.UTF-8
@@ -94,9 +92,12 @@ alias email="/usr/sbin/sendmail"
 alias emailme="email z5214048@unsw.edu.au"
 
 # autoexec
+killall ssh-agent
 cls
 printf '\e[1;35m%-6s\e[m' "Scripts loaded on $HOSTNAME"
 printf '\n'
+## Autoexec -> git ssh
+eval "$(ssh-agent -s)"
 
 rquota
 ls
