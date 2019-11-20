@@ -1,4 +1,0 @@
-@Echo off
-SetLocal EnableDelayedExpansion
-CHCP 1251> nul
-For /F "usebackq delims=" %%L In ("list.txt") Do CHCP 866> nul& echo %%L &md "%%L" & md "%%L\Книга" & md "%%L\Пересказ"
