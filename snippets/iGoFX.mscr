@@ -1,0 +1,7 @@
+RegWriteString("HKLM", "\SOFTWARE\iGO8", "StartSuccess", "T")
+Run("My Flash Disk\SY\Navi.exe")
+WaitForActive("Application Error", 10)
+If( WndExists("Application Error") )
+	SendOK()
+	Run("My Flash Disk\SY\Navi.exe")
+EndIf
