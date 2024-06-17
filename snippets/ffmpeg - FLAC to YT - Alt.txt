@@ -1,0 +1,1 @@
+ffmpeg -y -loop 1 -framerate 1 -i "in.jpg" -i "in.flac" -r 30 -vf "scale=1920:1080:force_original_aspect_ratio=decrease,pad=1920:1080:(ow-iw)/2:(oh-ih)/2" -c:v libx264 -tune stillimage -crf 3 -preset superfast -c:a aac -b:a 192k -shortest "out.mp4"
