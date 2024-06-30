@@ -15,7 +15,7 @@ export LC_COLLATE="en_US.UTF-8"
 unalias * 2>/dev/null
 
 # cd&ls mod
-alias ls='pwd && ls --color=auto ' 
+alias ls='pwd && ls --color=auto '
 
 unalias cd
 cdls() { cd "$@" && ls; }
@@ -37,7 +37,7 @@ alias prvsd=" -c && init 2"
 #alias poweroff='echo POFF_Attempt && prvsd'
 
 # git
-alias g="git" 
+alias g="git"
 alias gs="git status"
 alias gr="git reset"
 alias ga="git add . && gs"
