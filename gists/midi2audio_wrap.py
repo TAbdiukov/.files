@@ -1,3 +1,7 @@
+#!/usr/bin/env python
+# -*- coding: utf8 -*-
+
+# This is Python 3 code
 from midi2audio import FluidSynth
 import os, sys, string
 from pathlib import Path
