@@ -1,2 +1,0 @@
-ffmpeg -loop 1 -framerate 1 -r 30 -y -i zygbook.jpg -f concat -safe 0 -i zyg2files.txt -crf 0 -shortest -acodec copy -vcodec libx264 -tune stillimage -map 0 -segment_time 11:50:00 -f segment -reset_timestamps 1 zyg2.mp4
-pause

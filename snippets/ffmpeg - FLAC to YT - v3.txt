@@ -1,0 +1,2 @@
+ffmpeg -y -loop 1 -framerate 1 -i tsar.jpg -i joinedr2.mp3  -r 30 -acodec copy -vcodec libx264 -tune stillimage -crf 0 -f segment -segment_time 11:50:00 -reset_timestamps 1 -shortest Freeciv_part_%03d.mp4
+pause
