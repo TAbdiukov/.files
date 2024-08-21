@@ -1,17 +1,18 @@
 # .files
-.files + various other files of the similar manner (such as command snippets)
+.files + various other files (such as command snippets)
 
-## Desc
+## Contents
+
 File | Description
 -- | --
-.l | .bashrc alt
-dists/ | dists mirror on the main Github
-sw stats/ | data on how&why install programs on exotic platforms
+.l | .bashrc alternative
+gists/ | gists mirror on GitHub
+sw stats/ | data on software for various platforms
 snippets/ | snippets (mirror)
 
 ## Extra info
 
 Path | File | Description
 -- | -- | --
+snippets | iGoFX.mscr | Fix iGO application for Navman MOVE75
 snippets | *.mscr | MUST be in ANSI for compatibility
-snippets | iGoFX.mscr | Fix iGO application so it works on Navman MOVE75 (vendor restriction?)
