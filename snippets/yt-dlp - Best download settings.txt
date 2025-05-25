@@ -1,0 +1,6 @@
+# "bestvideo+bestaudio/best" -- best possible video and audio formats
+# --merge-output-format "mp4/mkv -- If possible, merge into MP4 without re-encoding. Otherwise fallback to MKV container
+# --embed-metadata --embed-thumbnail -- Embeds
+# --check-formats -- check formats to ensure best possible video and audio formats are fetched
+
+yt-dlp -f "bestvideo+bestaudio/best" --merge-output-format "mp4/mkv" --embed-metadata --embed-thumbnail --check-formats "URL"
