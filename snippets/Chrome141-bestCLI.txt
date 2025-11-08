@@ -1,0 +1,1 @@
+"C:\Program Files\Google\Chrome\Application\chrome.exe" --disable-features=CustomizeChromeSidePanel --profile-directory=Default --high-dpi-support=1 --force-device-scale-factor=.1.1 --disable-features=ExtensionManifestV2Unsupported,ExtensionManifestV2Disabled
